@@ -1,0 +1,58 @@
+Exercice 1: Fond qui change de couleur au survol
+
+Créez une div avec une couleur de fond initiale.
+Appliquez une transition sur la propriété background-color.
+Lorsque vous survolez la div, changez la couleur de fond pour une nouvelle valeur.
+
+Exercice 2: Animation de déplacement horizontal
+
+Créez une div avec une largeur et une hauteur définies.
+Appliquez une transition sur la propriété transform.
+Lorsque vous survolez la div, déplacez-la horizontalement vers la droite ou la gauche en utilisant la propriété transform: translateX().
+
+Exercice 3: Changement de taille progressif
+
+Créez une div avec une largeur et une hauteur initiales.
+Appliquez une transition sur la propriété width et height.
+Lorsque vous survolez la div, modifiez progressivement sa taille pour une nouvelle valeur.
+
+Exercice 4: Effet de fondu
+
+Créez une div avec un contenu à l'intérieur.
+Appliquez une transition sur la propriété opacity.
+Lorsque vous survolez la div, faites-la s'estomper en réduisant progressivement l'opacité.
+
+Exercice 5: Rotation continue
+
+Créez une div avec une forme ou un texte à l'intérieur.
+Appliquez une transition sur la propriété transform.
+Définissez une animation continue (animation) qui fait tourner la div sur elle-même.
+
+Exercice 6: Effet de zoom au survol
+Créez une div avec une image à l'intérieur.
+Appliquez une transition sur la propriété transform.
+Lorsque vous survolez la div, agrandissez progressivement l'image en utilisant la propriété transform: scale().
+
+Exercice 7: Dégradé de couleurs
+
+Créez une div avec une couleur de fond initiale.
+Appliquez une transition sur la propriété background-color.
+Lorsque vous survolez la div, faites-la passer d'une couleur à une autre en utilisant un dégradé.
+
+Exercice 8: Animation de rotation en 3D
+
+Créez une div avec du contenu à l'intérieur.
+Appliquez une transition sur la propriété transform.
+Lorsque vous survolez la div, faites-la tourner sur elle-même en utilisant la propriété transform: rotateY() ou transform: rotateX() pour une rotation en 3D.
+
+Exercice 9: Effet de pulsation
+
+Créez une div avec une forme ou un texte à l'intérieur.
+Appliquez une transition sur la propriété transform et opacity.
+Définissez une animation qui alterne entre un agrandissement et un rétrécissement de la div, en ajustant également l'opacité.
+
+Exercice 10: Transition d'ombre portée
+
+Créez une div avec du contenu à l'intérieur.
+Appliquez une transition sur la propriété box-shadow.
+Lorsque vous survolez la div, modifiez progressivement l'ombre portée pour obtenir un effet de transition subtile.

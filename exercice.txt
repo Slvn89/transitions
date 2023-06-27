@@ -1,0 +1,27 @@
+Animation de fade-in et fade-out :
+
+1-Créez un élément HTML avec du texte à l'intérieur.
+Utilisez les transitions CSS pour animer l'opacité de l'élément de 0 à 1
+ pour créer un effet de fade-in.
+
+Animation de déplacement :
+
+2-Créez un élément HTML, comme un carré coloré.
+Utilisez les transitions CSS pour animer le déplacement de l'élément d'une position à une autre, par exemple, de la gauche vers la droite de l'écran.
+
+Animation de rotation :
+
+3-Créez un élément HTML, comme un cercle.
+Utilisez les transitions CSS pour animer la rotation de l'élément à 360 degrés, créant ainsi une animation de rotation complète.
+
+Animation de changement de couleur :
+
+4-Créez un élément HTML, comme un bouton ou un carré.
+Utilisez les transitions CSS pour animer le changement de couleur de l'élément d'une couleur à une autre, par exemple, du rouge au bleu.
+
+Animation de zoom :
+
+5-Créez un élément HTML, comme une image ou un conteneur avec du contenu.
+Utilisez les transitions CSS pour animer le zoom de l'élément en ajustant sa taille, par exemple, en augmentant ou en réduisant son échelle.
+
+
